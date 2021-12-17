@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/StarxIT-WebSite-Template.git/static/css/main.8789949c.chunk.css",
+    "main.js": "/StarxIT-WebSite-Template.git/static/js/main.8e2933d5.chunk.js",
+    "main.js.map": "/StarxIT-WebSite-Template.git/static/js/main.8e2933d5.chunk.js.map",
+    "runtime-main.js": "/StarxIT-WebSite-Template.git/static/js/runtime-main.87bfc689.js",
+    "runtime-main.js.map": "/StarxIT-WebSite-Template.git/static/js/runtime-main.87bfc689.js.map",
+    "static/js/2.409a13ea.chunk.js": "/StarxIT-WebSite-Template.git/static/js/2.409a13ea.chunk.js",
+    "static/js/2.409a13ea.chunk.js.map": "/StarxIT-WebSite-Template.git/static/js/2.409a13ea.chunk.js.map",
+    "static/js/3.3ffb7c8f.chunk.js": "/StarxIT-WebSite-Template.git/static/js/3.3ffb7c8f.chunk.js",
+    "static/js/3.3ffb7c8f.chunk.js.map": "/StarxIT-WebSite-Template.git/static/js/3.3ffb7c8f.chunk.js.map",
+    "index.html": "/StarxIT-WebSite-Template.git/index.html",
+    "static/css/main.8789949c.chunk.css.map": "/StarxIT-WebSite-Template.git/static/css/main.8789949c.chunk.css.map",
+    "static/js/2.409a13ea.chunk.js.LICENSE.txt": "/StarxIT-WebSite-Template.git/static/js/2.409a13ea.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/StarxIT-WebSite-Template.git/static/media/animate-banner-img1.8f8e2619.jpg",
+    "static/media/service1.df19ab0a.png": "/StarxIT-WebSite-Template.git/static/media/service1.df19ab0a.png",
+    "static/media/service2.40e770f7.png": "/StarxIT-WebSite-Template.git/static/media/service2.40e770f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87bfc689.js",
+    "static/js/2.409a13ea.chunk.js",
+    "static/css/main.8789949c.chunk.css",
+    "static/js/main.8e2933d5.chunk.js"
+  ]
+}
