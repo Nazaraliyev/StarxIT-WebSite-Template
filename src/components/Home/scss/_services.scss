@@ -1,0 +1,28 @@
+#home-services{
+    padding: 50px 0;
+    .services-img-block{
+        padding: 50px;
+    }
+    .row:last-child{
+        background-color: #F4F6FC;
+        position: relative;
+        overflow: hidden;
+        img{
+            position: relative;
+            z-index: 1;
+        };
+        &:after{
+            content: "";
+            width: 1000px;
+            height: 1000px;
+            background-color: $thirdyColor;
+            position: absolute;
+            left: -400px;
+            top: -100px;
+            z-index: 0;
+            // transform: translateX(-50%);
+            transform: rotate(70deg);
+
+        }
+    }
+}

@@ -1,0 +1,24 @@
+header{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+#manu {
+    width: 60%;
+    li{
+        a{
+            color: rgb(97, 97, 97);
+            font-weight: 500;
+        }
+    }
+  #btn-1 {
+      background-color: $thirdyColor;
+  }
+
+  #btn-2{
+      color: $primaryColor;
+      background-color: transparent;
+  }
+}

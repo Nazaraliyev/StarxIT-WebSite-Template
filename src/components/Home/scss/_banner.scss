@@ -1,0 +1,67 @@
+#home-banner{
+    background-color: #fff;
+    padding: 0;
+}
+#home-banner-container{
+    height: 100vh;
+    
+    #home-banner-text{
+        position: absolute;
+        width: 30%;
+        top: 50%;
+        transform: translateY(-50%);
+        h1{
+            font-size: 60px;
+            font-weight: bold;
+            color: $primaryColor;
+        }
+        p{
+            color: rgb(97, 97, 97);
+            font-size: 1.1em;
+        }
+        button{
+            background-color: $primaryColor;
+            i{
+                color: $secondaryColor;
+            }
+        }
+    }
+}
+
+@keyframes imgAnimation {
+    0% {
+        border-radius: 500px 400px 300px 500px;
+    }
+    25% {
+        border-radius: 200px 500px 200px 400px;
+    }
+    50% {
+        border-radius: 250px 350px 250px 250px;
+    }
+    75% {
+        border-radius: 400px 300px 500px 300px;
+    }
+    100% {
+        border-radius: 500px 400px 300px 500px
+    }
+}
+
+#img-block{
+    width: 42%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../src/Image/Home/Banner/animate-banner-img1.jpg");
+    background-size: cover;
+    border-radius: 0 0 0 100px;
+    img{
+        animation-name: imgAnimation;
+        animation-duration: 8s;
+        animation-iteration-count: infinite;
+        animation-delay: 0;
+    }
+}
